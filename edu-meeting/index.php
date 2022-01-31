@@ -84,7 +84,7 @@
                 </ul>
               </li>
               <li class="scroll-to-section"><a href="#courses">Courses</a></li>
-              <li class="scroll-to-section"><a href="#contact">Contact Us</a></li>
+              <li class="scroll-to-section"><a href="./contact.php">Contact Us</a></li>
             </ul>
             <a class='menu-trigger'>
               <span>Menu</span>
